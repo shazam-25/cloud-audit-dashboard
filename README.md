@@ -38,13 +38,14 @@ cd sre-finops-dashboard
 --- 
 
 ## 📂 Project Structure
+```text
 ├── main.py              # FastAPI application entrypoint and DB models
 ├── Dockerfile           # Optimized Python slim container configuration
 ├── docker-compose.yml   # Local orchestration and environment mapping
 ├── requirements.txt     # Python runtime dependencies
 ├── .dockerignore        # Excludes local artifacts from container build
 └── .env                 # Local secrets (git-ignored)
-
+```
 ---
 
 ## 🔒 Security Principles
