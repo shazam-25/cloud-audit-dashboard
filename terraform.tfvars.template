@@ -1,0 +1,3 @@
+# terraform.tfvars.example
+neon_api_key = "your-neon-api-key-here"
+region       = "us-east-2"

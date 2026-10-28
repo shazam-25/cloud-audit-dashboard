@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.git/
+*.pyc
+*.pyo
+.terraform/
+*.tfstate
+*.tfstate.*
+.env
+.vscode/
+*.tfvars
