@@ -1,7 +1,7 @@
 services:
   finops-dashboard:
     build: .
-    container_name: sre-finops-api
+    container_name: cloud-audit-api
     ports:
       - "8080:8080"
     environment:
